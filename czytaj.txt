@@ -1,0 +1,14 @@
+Dziennik elektroniczny.
+
+Zalogowany jako admin:
+	- dodaje, usuwa uczniów z bazy,
+	- dodaje, usuwa nauczycieli z bazy,
+	- przypisuje przedmioty do nauczycieli,
+
+	hasła dla nauczycieli i uczniów nadaje admin,
+
+Zalogowany jako uczeń:
+	- podgląd ocen,
+
+Zalogowany jako nauczyciel:
+	- dodawanie, kasowanie ocen,

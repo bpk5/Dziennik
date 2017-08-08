@@ -1,8 +1,8 @@
 <?php
 // Plik konfiguracyjny.
 
-$host = "localhost";
-$dbUser = "root";
+$host = "";
+$dbUser = "";
 $dbPassword = "";
-$dbName = "dziennik";
+$dbName = "";
 ?>

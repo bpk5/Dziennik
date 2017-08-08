@@ -19,7 +19,7 @@ class View {
         // Informacje do wyświetlania w headerze.
         // W zależności od tego na jaką stronę było przekierowanie
         // podajemy odpowiednią informację.
-        $this->informacje['logowanie'] = 'Zaloguj się.';
+        $this->informacje['logowanie'] = 'Zaloguj się. (Admin) login: roman hasło: qwerty1234';
         $this->informacje['admin'] = 'Strona administratora.';
         $this->informacje['dodajUA'] = 'Dodaj ucznia do bazy.';
         $this->informacje['usunUA'] = 'Usuń ucznia z bazy.';
